@@ -1,2 +1,2 @@
 [flake8]
-exclude = test_*.py, .env/*, .git/*
+exclude = test_*.py, .env/*, .git/*, venv/*
